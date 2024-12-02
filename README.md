@@ -1,11 +1,5 @@
 # Tweets-Sentiment-Analyis
 
-Here's a sample **README.md** file tailored for your Sentiment Analysis project. You can modify it as needed before uploading to GitHub.
-
----
-
-# **Sentiment Analysis on Tweets**
-
 This repository contains a Sentiment Analysis application built using the Sentiment140 dataset. The model classifies tweets as **Positive** or **Negative**, and the application is deployed using [Streamlit](https://streamlit.io/) (or any other chosen framework).
 
 ---
